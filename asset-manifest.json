@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/fedorbor/goiteensfrontendl6/static/css/main.31d6cfe0.css",
-    "main.js": "/fedorbor/goiteensfrontendl6/static/js/main.3db9352f.js",
+    "main.js": "/fedorbor/goiteensfrontendl6/static/js/main.73cfd534.js",
     "index.html": "/fedorbor/goiteensfrontendl6/index.html",
-    "main.3db9352f.js.map": "/fedorbor/goiteensfrontendl6/static/js/main.3db9352f.js.map"
+    "main.73cfd534.js.map": "/fedorbor/goiteensfrontendl6/static/js/main.73cfd534.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.3db9352f.js"
+    "static/js/main.73cfd534.js"
   ]
 }
