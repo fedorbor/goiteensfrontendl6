@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.376750b1.css","mappings":"AAAA,wBACI,iBACA,CAEA,yBACA,cAAe,CACf,eACA","sources":["components/Clock/Clock.module.css"],"sourcesContent":[".container {\n    text-align: center;\n    }\n    \n    .clockface {\n    font-size: 64px;\n    font-weight: 500;\n    }"],"names":[],"sourceRoot":""}
