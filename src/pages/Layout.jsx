@@ -6,6 +6,7 @@ const Layout = () => {
     <div>
       <nav>
         <ul>
+        <li><Link to="/">Home</Link></li>
           <li><Link to="/clock">Clock</Link></li>
         </ul>
       </nav>
